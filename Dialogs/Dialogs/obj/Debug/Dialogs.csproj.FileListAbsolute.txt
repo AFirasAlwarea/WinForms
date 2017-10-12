@@ -1,0 +1,9 @@
+c:\users\firas.alwarea\documents\visual studio 2015\Projects\Dialogs\Dialogs\bin\Debug\Dialogs.exe.config
+c:\users\firas.alwarea\documents\visual studio 2015\Projects\Dialogs\Dialogs\bin\Debug\Dialogs.exe
+c:\users\firas.alwarea\documents\visual studio 2015\Projects\Dialogs\Dialogs\bin\Debug\Dialogs.pdb
+c:\users\firas.alwarea\documents\visual studio 2015\Projects\Dialogs\Dialogs\obj\Debug\Dialogs.csprojResolveAssemblyReference.cache
+c:\users\firas.alwarea\documents\visual studio 2015\Projects\Dialogs\Dialogs\obj\Debug\Dialogs.Form1.resources
+c:\users\firas.alwarea\documents\visual studio 2015\Projects\Dialogs\Dialogs\obj\Debug\Dialogs.Properties.Resources.resources
+c:\users\firas.alwarea\documents\visual studio 2015\Projects\Dialogs\Dialogs\obj\Debug\Dialogs.csproj.GenerateResource.Cache
+c:\users\firas.alwarea\documents\visual studio 2015\Projects\Dialogs\Dialogs\obj\Debug\Dialogs.exe
+c:\users\firas.alwarea\documents\visual studio 2015\Projects\Dialogs\Dialogs\obj\Debug\Dialogs.pdb
